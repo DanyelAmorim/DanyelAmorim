@@ -2,7 +2,7 @@
 <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
 <br/>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&center=true&width=500&lines=Hi,+I'm+Danyel+Amorim!;Python+%26+PHP+Developer;Crawler+%26+Automation+Expert;Local+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&center=true&width=500&lines=Hi,+I'm+Danyel+Amorim!;Backend+Automation+Engineer;Python+%26+PHP+Developer;Local+AI+Enthusiast)](https://git.io/typing-svg)
 
 </span>
 </div>
@@ -21,9 +21,7 @@
 
 - 🐘 Experienced in **PHP Systems** and Backend Logic
 
-- 🗄️ Working with **SQLite** for efficient data storage
-
-- 🤖 Developing with **Local Small Language Models (SLMs)**
+- 🗄️ Working with **SQLite** - 🤖 Developing with **Local Small Language Models (SLMs)**
 
 - 📫 How to reach me **[dev.danyelamorim@gmail.com](mailto:dev.danyelamorim@gmail.com)**
 
@@ -35,8 +33,10 @@
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
-<h3> Things I code with</h3><br>
-<p><img src="https://skillicons.dev/icons?i=py,php,sqlite,mysql,linux,debian,bash,docker,git,github,vscode,ai" /></p><br>
+<h3> Core Technologies</h3><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,php,ai&perline=3" />
+</p><br>
 
 ### 📊 GitHub Stats
 <p align="center">
