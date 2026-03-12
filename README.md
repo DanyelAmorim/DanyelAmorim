@@ -2,7 +2,7 @@
 <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
 <br/>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&center=true&width=500&lines=Hi,+I'm+Danyel+Amorim!;Backend+Automation+Engineer;Python+%26+PHP+Developer;Local+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&center=true&width=500&lines=Hi,+I'm+Danyel+Amorim!;Backend+%26+Automation+Developer;Python+%26+PHP+Developer;Local+AI+Enthusiast)](https://git.io/typing-svg)
 
 </span>
 </div>
@@ -15,9 +15,9 @@
 </div>
 
 <img align='right' src='https://media4.giphy.com/media/dDwicM3uFUqfC/giphy.gif' width='250'>
-<h3>A Backend & Automation Engineer</h3>
+<h3>A Backend & Automation Developer</h3>
 
-- 🐍 Specialized in **Python Scripts** (Web Crawlers & Scrapers)
+- 🐍 Experienced in **Python** (Web Crawlers & Scrapers)
 
 - 🐘 Experienced in **PHP Systems** and Backend Logic
 
