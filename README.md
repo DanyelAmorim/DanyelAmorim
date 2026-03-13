@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hello Gif" />
 </div>
 
-<img align='right' src='https://media4.giphy.com/media/3O3fXSqAIhtTAd0jEN/giphy.gif' width='220'>
+<img align='right' src='https://media4.giphy.com/media/dDwicM3uFUqfC/giphy.gif' width='250'>
 <h3>A Backend & Automation Developer</h3>
 
 - 🐍 Experienced in **Python** (Web Crawlers & Scrapers)
