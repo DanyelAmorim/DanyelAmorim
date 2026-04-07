@@ -2,7 +2,7 @@
 <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
 <br/>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&center=true&width=500&lines=Hi,+I'm+Danyel+Amorim!;Backend+%26+Automation+Developer;Python+%26+PHP+Developer;Local+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&center=true&width=500&lines=Hi,+I'm+Danyel+Amorim!;Backend+%26+Automation+Developer;Python+%26+PHP+Developer;Local+LLM+Enthusiast)](https://git.io/typing-svg)
 
 </span>
 </div>
@@ -21,21 +21,25 @@
 
 - 🐘 Experienced in **PHP Systems** and Backend Logic
 
-- 🗄️ Working with **SQLite** - 🤖 Developing with **Local Small Language Models (SLMs)**
+- 🗄️ Working with **SQLite**, **HTML5** & **CSS3**
+
+- 🤖 Developing with **Local Large Language Models (LLMs)**
 
 - 📫 How to reach me **[dev.danyelamorim@gmail.com](mailto:dev.danyelamorim@gmail.com)**
 
 - 👨‍💻 All of my projects are available right here at **[GitHub](https://github.com/DanyelAmorim?tab=repositories)**
 
-- 💬 Ask me about **PYTHON, PHP, SQLITE, WEB SCRAPING, LOCAL LLMs, LINUX**
+- 💬 Ask me about **PYTHON, PHP, SQLITE, WEB SCRAPING, LOCAL LLMS, LINUX**
 
-- 🔭 Currently optimizing **local AI deployment** on desktop/mobile
+- 🔭 Currently optimizing **local LLM deployment** on desktop/mobile
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
-<h3> Core Technologies</h3><br>
+
+<h3>⚡ Core Technologies</h3><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,ai&perline=3" />
+  <!-- Adicionei sqlite, html e css. O 'ai' foi removido -->
+  <img src="https://skillicons.dev/icons?i=python,php,sqlite,html,css&perline=5" />
 </p><br>
 
 ### 📊 GitHub Stats
