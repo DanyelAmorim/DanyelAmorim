@@ -21,6 +21,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
 <h3> Things I code with</h3><br>
 <p>
-  <!-- Ícones solicitados: SQLite, HTML, CSS, Python, PHP. Adicionei Linux pois é relevante ao seu perfil -->
-  <img src="https://skillicons.dev/icons?i=sqlite,html,css,py,php,linux" />
-</p><br>
+  <a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://raw.githubusercontent.com/BryanApolonio/BryanApolonio/refs/heads/main/linux.gif' width='290'></a>
+<h3>A Full Stack Engineer</h3>
