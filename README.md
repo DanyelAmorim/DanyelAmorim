@@ -1,23 +1,7 @@
-<div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
-<span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-<br/>
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&center=true&width=500&lines=Hi,+I'm+Danyel+Amorim!;Backend+%26+Automation+Developer;Python+%26+PHP+Developer;Local+LLM+Enthusiast)](https://git.io/typing-svg)
-
-</span>
-</div>
-<span>
-<a href="mailto:dev.danyelamorim@gmail.com" target="_blank"><img alt="Gmail" align="right" width="22" src="https://cdn.simpleicons.org/gmail/white"/></a>
-<a href="https://github.com/DanyelAmorim" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
-</span>
-<div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hello Gif" />
-</div>
-
-<img align='right' src='https://media4.giphy.com/media/dDwicM3uFUqfC/giphy.gif' width='250'>
+<a href="https://github.com/DanyelAmorim" target="_blank"><img align='right' src='https://media4.giphy.com/media/dDwicM3uFUqfC/giphy.gif' width='290'></a>    
 <h3>A Backend & Automation Developer</h3>
 
-- 🐍 Experienced in **Python** (Web Crawlers & Scrapers)
+- 🐍 Experienced in **Python** (Web Crawlers)
 
 - 🐘 Experienced in **PHP Systems** and Backend Logic
 
@@ -25,24 +9,18 @@
 
 - 🤖 Developing with **Local Large Language Models (LLMs)**
 
-- 📫 How to reach me **[dev.danyelamorim@gmail.com](mailto:dev.danyelamorim@gmail.com)**
+- 📫 How to reach me [dev.danyelamorim@gmail.com](mailto:dev.danyelamorim@gmail.com)
 
-- 👨‍💻 All of my projects are available right here at **[GitHub](https://github.com/DanyelAmorim?tab=repositories)**
+- 👨‍💻 All of my projects are available right here at [GitHub](https://github.com/DanyelAmorim?tab=repositories)
 
-- 💬 Ask me about **PYTHON, PHP, SQLITE, WEB SCRAPING, LOCAL LLMS, LINUX**
+- 💬 Ask me about **PYTHON, PHP, SQLITE, LOCAL LLMS, LINUX**
 
 - 🔭 Currently optimizing **local LLM deployment** on desktop/mobile
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
-
-<h3>⚡ Core Technologies</h3><br>
-<p align="center">
-  <!-- Adicionei sqlite, html e css. O 'ai' foi removido -->
-  <img src="https://skillicons.dev/icons?i=python,php,sqlite,html,css&perline=5" />
+<h3> Things I code with</h3><br>
+<p>
+  <!-- Ícones solicitados: SQLite, HTML, CSS, Python, PHP. Adicionei Linux pois é relevante ao seu perfil -->
+  <img src="https://skillicons.dev/icons?i=sqlite,html,css,py,php,linux" />
 </p><br>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanyelAmorim&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-</p>
