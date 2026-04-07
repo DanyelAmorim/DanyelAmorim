@@ -1,4 +1,4 @@
-<a href="https://github.com/DanyelAmorim" target="_blank"><img align='right' src='https://media4.giphy.com/media/dDwicM3uFUqfC/giphy.gif' width='290'></a>    
+<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://raw.githubusercontent.com/BryanApolonio/BryanApolonio/refs/heads/main/linux.gif' width='290'></a>
 <h3>A Backend & Automation Developer</h3>
 
 - 🐍 Experienced in **Python** (Web Crawlers)
