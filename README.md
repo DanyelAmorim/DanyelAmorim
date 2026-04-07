@@ -18,8 +18,7 @@
 - 🔭 Currently optimizing **local LLM deployment** on desktop/mobile
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Things GIF">
+<a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://raw.githubusercontent.com/BryanApolonio/BryanApolonio/refs/heads/main/linux.gif' width='290'></a>
+<h3>A Full Stack Engineer</h3>
 <h3> Things I code with</h3><br>
 <p>
-  <a href="https://bryanapolonio.github.io" target="_blank"><img align='right' src='https://raw.githubusercontent.com/BryanApolonio/BryanApolonio/refs/heads/main/linux.gif' width='290'></a>
-<h3>A Full Stack Engineer</h3>
